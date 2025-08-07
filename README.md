@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, me chamo Gabriel Marques 
+  Olá, me chamo Gabriel
   <img src="https://github.com/gabridulol/gabridulol/blob/main/Hi.gif" width="30px"><br>
   Sou Desenvolvedor de Software
 </h1>
